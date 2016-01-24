@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EtsyTestApp</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="search_by_category">Search By Category:</string>
+    <string name="empty_search">Search field is empty</string>
+    <string name="delete_message">Item is deleted from Favorite</string>
+    <string name="add_message">Item added to Favorite</string>
+    <string name="undo">UNDO</string>
+    <string name="details">Details</string>
+    <string name="search_f">Search: %s</string>
+    <string name="loading">Loading…</string>
+    <string name="empty">Empty</string>
+
+</resources>
